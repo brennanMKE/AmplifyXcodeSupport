@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>$amplify_import_api_plugin</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>// docs: https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/ios
+// https://docs.amplify.aws/lib/restapi/getting-started/q/platform/ios
+import AWSDataStorePlugin
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6E0A7FBB-78CF-44A3-BE41-D53E73003753</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Import API Plugin</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Import API Plugin</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

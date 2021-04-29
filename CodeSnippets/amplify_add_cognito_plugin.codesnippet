@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>$amplify_add_cognito_plugin</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>
+// TODO: add build target, linking and import AWSCognitoAuthPlugin
+try Amplify.add(plugin: AWSCognitoAuthPlugin())
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0391069E-B241-4808-A211-8AAF01BE5F0D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Add Cognito plugin to Amplify configuration</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Add Cognito Plugin</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

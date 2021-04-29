@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>$amplify_hub_dispatch_payload_brief</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let payload = HubPayload(eventName: &lt;#T##String#&gt;)
+Amplify.Hub.dispatch(to: &lt;#T##HubChannel#&gt;, payload: payload)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CA68B061-3114-4737-9676-9481C7E15515</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Dispatch payload on hub with event name</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Dispatch payload on hub</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

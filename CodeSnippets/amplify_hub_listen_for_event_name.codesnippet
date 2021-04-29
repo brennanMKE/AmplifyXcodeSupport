@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>$amplify_hub_listen_for_event_name</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let unsubscribeToken = Amplify.Hub.listen(to: &lt;#T##HubChannel#&gt;, eventName: &lt;#T##HubPayloadEventName#&gt;) { &lt;#HubPaypayload#&gt; in
+                &lt;#code#&gt;
+            }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BFBCCC98-9894-4673-83C7-1DF40DDC5D8E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Listen to channel for event name</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Listen to channel for event name</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

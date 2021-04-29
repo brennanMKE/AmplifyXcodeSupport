@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>$amplify_add_datastore_plugin</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>
+// TODO: add build target, linking and import AWSDataStorePlugin
+let dataStorePlugin = AWSDataStorePlugin(modelRegistration: AmplifyModels())
+try Amplify.add(plugin: dataStorePlugin)
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CA3375B4-8161-4AAC-9786-0BB11C3D096E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds DataStore plugin to Amplify configuration</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Add DataStore Plugin</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

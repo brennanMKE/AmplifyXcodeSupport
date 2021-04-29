@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>$amplify_add_analytics_plugin</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>
+// TODO: add build target, linking and import AWSPinpointAnalyticsPlugin
+try Amplify.add(plugin: AWSPinpointAnalyticsPlugin())
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>69ADEDB6-54C1-4946-A4F0-DB17B208FE59</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Add Analytics plugin to Amplify configuration</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Add Analytics Plugin</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
